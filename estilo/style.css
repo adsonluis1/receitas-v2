@@ -29,7 +29,9 @@ body , html{
 
 header{
     background-color: #ff9501 ;
+    max-width: 900px;
     padding: 10px;
+    margin: auto;
 }
 
 header img{
@@ -38,7 +40,9 @@ header img{
 
 menu{
    background-color: #964B00;
+   max-width: 920px;
     text-align: center;
+    margin: auto;
 }
 
 menu p{
@@ -63,11 +67,13 @@ menu a:hover{
 }
 
 main{
-    
     width: 100%;
+    max-width: 900px;
     margin: 3px;
-    background-color: #ff9501;
+    background-color: white;
+    margin: auto;
 }
+
 
 section{
     background-color: white;
@@ -104,6 +110,7 @@ div#receita1{
 section img{
     display: block;
     width: 100%;
+    max-width: 700px;
     margin: auto;
     margin-bottom: 15px;
     box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.312);
@@ -173,10 +180,12 @@ div#receita3{
 div#receita4{
     background-color: #964B00;
     padding: 10px;
+    border-radius: 0px 0px 10px 10px;
 }
 
 article{
-    padding-top: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     background-color: white;
     padding: 10px;
     text-align: justify;
@@ -196,6 +205,8 @@ article p{
 
 footer{
     background-color: #ff9501;
+    max-width: 900px;
+    margin: auto;
 }
 
 footer p {

@@ -1,0 +1,32 @@
+@charset 'UTF-8';
+
+/*cores
+marrom:#964B00
+amarelo:#ff9501
+vermelho:#AD1709
+*/
+
+menu{
+    background-color: aqua;
+}
+
+section#bloco1{
+    background-color: aqua;
+}
+
+#bloco1 article.receita1{
+    
+    max-width: 450px;
+    background-color: #ff9501;
+}
+
+#bloco1 article.receita2{
+    
+    max-width: 450px;
+    background-color: #ff9501;
+}
+
+
+
+
+
